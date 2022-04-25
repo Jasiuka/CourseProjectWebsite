@@ -1,5 +1,5 @@
 # CourseProjectWebsite
-HTML/CSS course website project link: https://jasiuka.github.io/CourseProjectWebsite/
+HTML/CSS course website project      **link to website:** https://jasiuka.github.io/CourseProjectWebsite/
 
 This website design and whole concept is not mine. It's just copy of HTML/CSS course project, except some things were done by me and code is a bit different than course teacher code. Link to the course https://www.udemy.com/course-dashboard-redirect/?course_id=437398
 
