@@ -7,7 +7,7 @@ This website design and whole concept is not mine. It's just copy of HTML/CSS co
 
 **About project.**
 
-It's a non-existent real world responsive web site for startup Omnifood. Omnifood is a subscription app powered by AI, to help people start eating helthier everyday.
+Real world responsive web site for startup which does not exist, Omnifood. Omnifood is a subscription app powered by AI, to help people start eating helthier everyday.
 
 **-*****-**
 
